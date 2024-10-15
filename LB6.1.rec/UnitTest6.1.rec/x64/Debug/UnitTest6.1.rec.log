@@ -1,0 +1,4 @@
+﻿  UnitTest6.1.rec.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB6.1.rec\LB6.1.rec\main.cpp(34,1): warning C4715: 'Sum': not all control paths return a value
+D:\універ\лаби з алгоритмізації і програмування\LB6.1.rec\LB6.1.rec\main.cpp(46,1): warning C4715: 'Count': not all control paths return a value
+  UnitTest6.1.rec.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB6.1.rec\x64\Debug\UnitTest6.1.rec.dll
